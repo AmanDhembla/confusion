@@ -3,7 +3,7 @@
   "info": {
     "version": "1.0.0",
     "title": "API 1",
-    "description": "Buy or rent spacecrafts"
+    "description": "Buy or rent crafts"
   },
   "paths": {
     "/spacecrafts/{spacecraftId}": {
